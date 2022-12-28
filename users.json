@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "fname": "Ivy",
+      "lname": "Cal",
+      "username": "ivy.cal@mecallapi.com",
+      "time": "12/28/2022, 8:33:09 PM",
+      "avatar": "https://www.melivecode.com/users/2.png"
+    },
+    {
+      "id": 3,
+      "fname": "Walter",
+      "lname": "Beau",
+      "username": "walter.beau@mecallapi.com",
+      "time": "12/28/2022, 8:33:09 PM",
+      "avatar": "https://www.melivecode.com/users/3.png"
+    },
+    {
+      "id": 5,
+      "fname": "Benjamin",
+      "lname": "Chaz",
+      "username": "benjamin.chaz@mecallapi.com",
+      "time": "12/28/2022, 8:33:09 PM",
+      "avatar": "https://www.melivecode.com/users/5.png"
+    },
+    {
+      "id": 7,
+      "fname": "Hector",
+      "time": "12/28/2022, 8:33:09 PM",
+      "lname": "Graves",
+      "username": "hector.graves@mecallapi.com",
+      "avatar": "https://www.melivecode.com/users/7.png"
+    },
+    {
+      "id": 8,
+      "fname": "Diego",
+      "lname": "Greene",
+      "time": "12/28/2022, 8:33:09 PM",
+      "username": "diego.greene@mecallapi.com",
+      "avatar": "https://www.melivecode.com/users/8.png"
+    },
+    {
+      "id": 9,
+      "fname": "Izzie",
+      "lname": "Mooney",
+      "username": "izzie.mooney@mecallapi.com",
+      "time": "12/28/2022, 8:33:09 PM",
+      "avatar": "https://www.melivecode.com/users/9.png"
+    },
+    {
+      "id": 10,
+      "fname": "Romeo",
+      "lname": "Garner",
+      "time": "12/28/2022, 8:33:09 PM",
+      "username": "romeo.garner@mecallapi.com",
+      "avatar": "https://www.melivecode.com/users/10.png"
+    },
+    {
+      "id": 11,
+      "fname": "Adrian",
+      "time": "12/28/2022, 8:33:09 PM",
+      "lname": "Faisal",
+      "username": "adrian.faisal@mecallapi.com",
+      "avatar": "https://www.melivecode.com/users/11.png"
+    },
+    {
+      "id": 12,
+      "fname": "Katarina",
+      "lname": "Aba",
+      "time": "12/28/2022, 8:33:09 PM",
+      "username": "katarina.aba@mecallapi.com",
+      "avatar": "https://www.melivecode.com/users/12.png"
+    },
+    {
+      "fname": "namiq",
+      "username": "nami1@example.com",
+      "avatar": "blob:http://localhost:3000/36ae232e-6fd3-478e-9ac2-57a5b0839a42",
+      "time": "12/28/2022, 8:33:09 PM",
+      "id": 13
+    },
+    {
+      "fname": "murad ",
+      "username": "murad@example.com",
+      "avatar": "blob:http://localhost:3000/139355ff-519d-4960-91a3-ae9f6d79f873",
+      "time": "12/28/2022, 8:35:08 PM",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
